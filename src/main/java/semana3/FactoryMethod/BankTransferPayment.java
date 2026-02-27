@@ -1,4 +1,4 @@
-package semana3;
+package semana3.FactoryMethod;
 
 public class BankTransferPayment implements Payment {
 
