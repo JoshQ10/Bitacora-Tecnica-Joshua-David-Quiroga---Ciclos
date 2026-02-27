@@ -2,7 +2,7 @@ package semana1.streams.Ejercicio5;
 
 import java.util.List;
 
-public class SSMain {
+public class Main {
 
     public static boolean isBatchValid(List<Transaction> transactions) {
 
