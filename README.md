@@ -9,6 +9,8 @@
 **Tablero de organización en Jira:**  
 https://bitacora-equipo-arnja.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline?timeline=WEEKS&atlOrigin=eyJpIjoiYzdmZGRkZjc3Mzc2NDNlZDg0YmM0MzM4ODE2OWNmNTIiLCJwIjoiaiJ9
 
+## Diagramas:
+https://lucid.app/lucidchart/d035776f-7c94-4150-9fb5-55bcacb674df/edit?invitationId=inv_ccfbc0fd-443f-4d4f-b7a1-53f4693b6fe2&page=RtlHv1IFQLn~#
 ---
 
 ## Descripción
