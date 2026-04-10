@@ -55,3 +55,10 @@ Cada semana de la bitácora incluye:
 Esta bitácora no se plantea como un simple repositorio de código o un resumen teórico. Se trata de un ejercicio continuo de práctica y reflexión que permite fortalecer habilidades técnicas a través de la resolución de problemas reales planteados durante el curso.
 
 El objetivo es desarrollar una comprensión más profunda de los conceptos de diseño de software y mejorar progresivamente la capacidad para implementar soluciones de forma estructurada y profesional.
+
+
+## Repo Library
+https://github.com/JoshQ10/DOSW-Library
+
+# Repo ECI-Sportlife
+https://github.com/JoshQ10/ECI-SportLife
