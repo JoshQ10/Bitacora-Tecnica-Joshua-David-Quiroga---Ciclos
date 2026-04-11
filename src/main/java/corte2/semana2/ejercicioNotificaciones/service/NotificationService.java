@@ -3,14 +3,18 @@ import corte2.semana2.ejercicioNotificaciones.strategy.NotificationStrategy;
 
 public class NotificationService {
 
-    private static NotificationService instance;
+    private static volatile NotificationService instance;
     private NotificationStrategy strategy;
 
     private NotificationService() {}
 
     public static NotificationService getInstance() {
         if (instance == null) {
-            instance = new NotificationService();
+            synchronized (NotificationService.class) {
+                if (instance == null) {
+                    instance = new NotificationService();
+                }
+            }
         }
         return instance;
     }
